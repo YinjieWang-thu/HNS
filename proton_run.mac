@@ -1,0 +1,13 @@
+# Auto-generated Geant4 macro
+/run/initialize 
+/control/verbose 0 
+/run/verbose 0 
+/event/verbose 0 
+/tracking/verbose 0
+/particle/verbose 0
+/control/alias quiet 1
+
+/run/beamOn 1842099
+
+
+
